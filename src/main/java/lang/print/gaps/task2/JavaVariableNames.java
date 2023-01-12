@@ -10,5 +10,6 @@ public class JavaVariableNames {
         int sharp = 100000;
         int star = 1000000;
         int goodVarName = 1000000;
+        System.out.println(tomorrow+""+money+""+hundred+""+back+""+under_Score+""+sharp+""+star+""+goodVarName);
     }
 }
